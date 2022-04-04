@@ -5,6 +5,7 @@ For this challenge, I used the following software:
 
 - HTML 5
 - CSS 3
+- Bootstrap v5.1.3
 - JavaScript
 
 ## How to Setup
