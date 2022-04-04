@@ -1,3 +1,5 @@
+<p align="center"><img src="./img/fpay-logo-v1.svg" width="300"></p>
+
 # Fpay Frontend Challenge
 ### By: Jimmy Buriticá
 
