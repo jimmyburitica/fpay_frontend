@@ -1,0 +1,32 @@
+.bg-beige {
+  background-color: #faf6f2;
+}
+
+.bg-brown {
+  background-color: #9e5622;
+}
+
+.border-brown {
+  border-color: #9e5622;
+}
+
+.card-text {
+  height:48px;
+}
+
+.text-brown {
+  color: #9e5622;
+}
+
+section {
+  transition: opacity 2s ease-out;
+  opacity: 0;
+  height: 0;
+  overflow: hidden;
+}
+
+section.active {
+  transition: opacity 2s ease-out;
+  opacity: 1;
+  height: auto;
+}
